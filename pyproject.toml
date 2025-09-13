@@ -1,0 +1,11 @@
+[project]
+name = "devin-sample"
+version = "0.1.0"
+description = "Devin を触るためのサンプルコード"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio==5.45.0",
+    "ruff==0.13.0",
+    "pytest==8.4.2",
+]
