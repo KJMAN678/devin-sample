@@ -8,4 +8,7 @@ dependencies = [
     "gradio==5.45.0",
     "ruff==0.13.0",
     "pytest==8.4.2",
+    "pymupdf>=1.23.0",
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
 ]
